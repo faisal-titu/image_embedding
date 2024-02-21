@@ -7,14 +7,13 @@ This Jupyter Notebook explores generating image embeddings using two popular lib
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/image-embedding-python.git
+git clone https://github.com/faisal-titu/image_embedding.git
 ```
 Use code with caution.
 Install dependencies:
 
 Bash
 ```
-cd image-embedding-python
 pip install -r requirements.txt
 ```
 Use code with caution.
